@@ -1,0 +1,14 @@
+{
+  "name": "economy_bot",
+  "version": "1.0.0",
+  "description": "puppeteer aplication",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "GustavoGV",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
+}
